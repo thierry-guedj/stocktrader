@@ -1,5 +1,5 @@
-# stocktrader
-Project made for the Udemy course "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)"
+# Stock Trader
+Project made for the Udemy course "[Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)"
 
 [Vue](https://vuejs.org) (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. 
 
