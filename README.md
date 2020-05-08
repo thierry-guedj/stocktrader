@@ -8,6 +8,7 @@ The core library is focused on the view layer only, and is easy to pick up and i
 On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
 
 ## Project features
+![Stock Trader Screenshot](stocktrader.png)
 Trade or View your Portfolio
 
 You may Save & Load your Data
